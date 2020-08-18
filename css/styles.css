@@ -9,6 +9,14 @@ a {
     text-transform: uppercase;
 }
 
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: darkgrey;
+}
+
 img {
     max-width: 30vw;
     margin: 10px;
