@@ -40,3 +40,15 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.link-to-original {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.link-to-original a {
+    text-transform: none;
+    text-decoration: underline;
+    color: blue;
+    
+}
