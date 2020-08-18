@@ -19,6 +19,11 @@ aside {
     margin: 1rem 0;
 }
 
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
 .w3-card-2 {
     max-width: 40vw;
 }
