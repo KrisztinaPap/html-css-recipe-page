@@ -1,17 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 2.8rem;
+    text-transform: uppercase;
+}
+
 a {
     text-decoration: none;
     text-transform: uppercase;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
-    padding: 50px;
-}
-
 img {
     max-width: 30vw;
     margin: 10px;
+}
+
+aside {
+    text-align: center;
+    margin: 1rem 0;
 }
 
 .w3-card-2 {
